@@ -27,3 +27,16 @@ function math(number1,number2){
 }
 
 math(10,15)
+
+
+function thatlisttho(array_of_numbers){
+    let counter=0
+    while (counter<array_of_numbers.length){
+        console.log("running list")
+        counter=counter+1
+        return highest_number
+        
+    }
+}
+thatlisttho(2,5,6,12,17)
+
